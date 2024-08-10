@@ -1,6 +1,6 @@
 [![MLOps Pipeline](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)](https://github.com/Sutil)
 
-# Hi there 👋, I'm Utkarsh Kumar Sahu
+# Hi there 👋, I'm Utkarsh Kumar Sahu 
 
 I'm a 4th Year UnderGraduate student at IIT BHU (Varanasi). I am a passionate Data Scientist and Deep Learning Engineer with a strong foundation in machine learning, artificial intelligence, and advanced modelling techniques. My experience spans developing and deploying sophisticated AI solutions, optimizing complex systems, and implementing state-of-the-art models in object detection, time series analysis, and natural language processing domains. I have a deep understanding of tools and frameworks like TensorFlow, PyTorch, and Langchain, and I have worked with Docker, Kubernetes, and AWS for efficient deployment. My work also includes hands-on experience with large language models and generative adversarial networks, demonstrating my versatility and commitment to pushing the boundaries of technology.
 
